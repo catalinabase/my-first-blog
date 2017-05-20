@@ -25,7 +25,7 @@ SECRET_KEY = '+98dzo3svnd^bl6=*8$7zv09izqo0dm0mmkyefn&&-6gd0k$!d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['catalinaout.pythonanywhere.com']
 
 
 # Application definition
